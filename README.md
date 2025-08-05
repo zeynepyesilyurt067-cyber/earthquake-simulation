@@ -1,4 +1,4 @@
-# 🌍 Deprem Simülasyon Projesi
+# 🌍 Earthquake simulation
 **Python ile deprem dalgalarının yayılımını simüle eder.**  
 [Proje görseli](earthquake_simulation.png)  
 
